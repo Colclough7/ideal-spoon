@@ -1,0 +1,16 @@
+/* Recipe.js */
+
+
+td img{
+    object-fit: cover;
+  }
+  th,
+  td {
+    width: 10%;
+  }
+   .content_td{
+     overflow: scroll;
+    width: 30%;
+  }
+  
+  
